@@ -23,3 +23,6 @@ db.test.find({
    .projection({address: 1})
    .sort({})
    .limit(0)
+
+//5-5 $and, $or, implicit vs explicit
+
